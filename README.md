@@ -1,6 +1,5 @@
-[![][license img]][license]
-
 # TDD Introduction
+[![][license img]][license]
 
 Project used for TDD introduction workshops. Contains everything you need to get started with Java and TDD. The only 
 prerequisite is installed JDK 8 and an editor of your choice.
